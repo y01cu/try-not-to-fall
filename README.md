@@ -16,6 +16,8 @@ Try not to fall (as the name suggests) for as high levels as possible.
 
 ![TryNotToFall-gif](https://user-images.githubusercontent.com/74989036/183547130-b4d97a59-c61a-4b5a-8dcb-3681f672fd6f.gif)
 
+## [Play Try Not to Fall Game!](https://play.unity.com/mg/other/webgl-builds-205261)
+
 ## GoalkeeperPlayerGame
 
 Controls:
