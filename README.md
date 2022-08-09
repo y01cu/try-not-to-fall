@@ -2,11 +2,11 @@
 
 Controls:
 
-up-down arrow keys/ w-a : move up/down
+⬆-⬇/ w-s : move up/down
 
-right-left arrow keys/ move and rotate camera
+⬅-➡/a-d : move and rotate camera
 
-Powerups makes your ball much stronger.
+Powerups make your ball much stronger. ⚡
 
 Aim:
 
@@ -20,11 +20,11 @@ Try not to fall (as the name suggests) for as high levels as possible.
 
 Controls:
 
-up-down arrow keys/ w-a : move up/down
+⬆-⬇/ w-s : move up/down
 
-right-left arrow keys/ move and rotate camera
+⬅-➡/a-d : move and rotate camera
 
-Powerups makes your ball much stronger.
+Powerups make your ball much stronger. ⚡
 
 Aim: 
 
